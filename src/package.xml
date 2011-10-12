@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Sales Activity Dashboard 0%2E1</fullName>
+    <types>
+        <members>SalesDashboards</members>
+        <members>SalesDashboards/SalesActivity</members>
+        <name>Dashboard</name>
+    </types>
+    <types>
+        <members>Dashboard</members>
+        <members>Dashboard/ActivitesbyAssignedbyAccount</members>
+        <members>Dashboard/ActivitesbyType</members>
+        <members>Dashboard/ActivitiesCompleted</members>
+        <members>Dashboard/ActivitiesbyAssignedonOppty</members>
+        <members>Dashboard/ActivityCloseRate</members>
+        <members>Dashboard/AdoptionActivityLogging</members>
+        <members>Dashboard/AdoptionNeglectedOpptys</members>
+        <members>Dashboard/ImportantNeglectedAccounts</members>
+        <name>Report</name>
+    </types>
+    <version>20.0</version>
+</Package>
